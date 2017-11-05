@@ -1,0 +1,3 @@
+Western Australia, Northern Territory, Queensland, New South Wales, Victoria, Tasmania, South Australia
+red, green, blue
+Western Australia-Northern Territory, Western Australia-South Australia, Northern Territory-Queensland, Northern Territory-South Australia, Queensland-New South Wales, Queensland-South Australia, New South Wales-Victoria, New South Wales-South Australia, Victoria-South Australia
